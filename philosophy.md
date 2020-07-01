@@ -33,11 +33,13 @@ I was born in 1996. My parents met each other in San Francisco while working. My
 
 I often think of one those lives - my grandfather. My grandfather was a front line medic in WW2. He was part of 8 people in his 156 person platoon to survive a German attack. He witnessed his best friends get shot on either side of him while a tree trunk saved his life. The next time he was shot, the bullet was directly over his heart. The bullet penetrated the metal cigarette case he was carrying in his shirt pocket, passed through the first layer and stopped at the back.
 
+<img src="{{site.imgurl}}/grandpa.jpg" height="200" />
+
 Statistical probablity. The probability that my grandfather survived WW2 x my parents meet in San Francisco x that I was born (I was a happy accident) = an extremely low number. But we if multiply that by the probabilty that a meteorite hit the earth 66 million years ago changing the environment to eventually sustain human life x the probability that my first two ancestors meet and the many "great great great.." grandparents after them... well then we have an extremely small number. But it we multiply that by the probabilty that 15 billion years a dense an extremely hot and dense cloud exploded into billions of suns and planets x the probability.... you get the idea, we get an infinetly small number.
 
 The chance of life is nothing short of miracle. Always be grateful you have lived. 
 
---> insert winnie the poo and piglet photo. 
+<img src="{{site.imgurl}}/snoopy.jpg" height="200" />
 
 # Why is perspective the "most important component of life"?
 
@@ -59,7 +61,7 @@ Perspective allows you to access nothing whenever you want.
 **Living Unabashed**
 The Hubble telescope has shown from space a deeper image of the sky than any seen perviously.
 
-insert image
+<img src="{{site.imgurl}}/Hubble.jpg" height="200" />
 
 Each black dot in the image is a galaxy containing a hubdred billion suns similar to ours. The majority of those suns are orbited by planets, meaning that there are thousands of billions of billions of billions of planets such as Earth. 
 
