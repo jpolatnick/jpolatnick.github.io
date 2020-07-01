@@ -24,4 +24,4 @@ nutrion
 venture capital
 music
 
-<img style="float: center; margin: 0px 15px 15px 0px;" src="{{site.imgurl}}/sig.PNG" width="40%" />
+<img style="float: center; margin: 0px 15px 15px 0px;" src="{{site.imgurl}}/signature.png" width="40%" />
