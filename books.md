@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Books & Quotes
+permalink: /books/
+---
 
 Memento Mori - remember you will die
 
