@@ -4,6 +4,12 @@ title: Books & Quotes
 permalink: /books/
 ---
 
+# Books
+Here you'll find books I have read that I particularly enjoyed. Some include my own takeaways from the read.
+
+# Quotes
+Below you will find a haphazard collections of words and sentiments that have I have found worthy to jot down. Some I use every day to inspire and motivate.
+
 Memento Mori - remember you will die
 
 Objective judgment, now at this very moment 
