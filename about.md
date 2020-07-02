@@ -12,16 +12,6 @@ I am Jackson. More so than anything, I enjoy joining people and ideas together.
 
 Here you'll find a glimpse into my interests.
 
-social robotics and AI ethics
-philosophy stocism
-art
-interior design
-arichteture
-ceramics
-health - mind with body
-boxing
-nutrion
-venture capital
-music
+philosophy. stocism. art. interior design. arichteture. ceramics. social robotics and AI ethics. health - mind with body. boxing. nutrion. venture capital. music. guitar. physics. soccer (futbol). NBA. NFL.
 
 <img style="float: center; margin: 0px 15px 15px 0px;" src="{{site.imgurl}}/signature.png" width="40%" />
