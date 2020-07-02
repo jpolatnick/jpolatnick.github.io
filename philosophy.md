@@ -43,22 +43,22 @@ The chance of life is nothing short of miracle.
 
 # How can perspective empower my future?
 
-Perspective offers you ability the to overcome fear and live unabashed. 
+Fear and societal pressures for validation are two of the largest inhibitors to success in our modern society.  
 
 **Fear**
-Why are we afraid? Afraid to go for the promotion? Afraid to speak in front of the crowd? Afraid to ask that special someone out? 
+Why are we afraid? Afraid to go for the promotion? Afraid to speak in front of the crowd? Afraid to pursue our true passion? 
 
-Somewhere up in space, a star has just used all of its combustible hydrogen. What remains is no longer supported by the heat of the combustion and collapses under its own weight to a point where it bends space to such a degree is it plummets into an actual hole￼. This is what we call a black hole.
+Somewhere up in space, a star has just used all of its combustible hydrogen. What remains is no longer supported by the heat of the combustion and collapses under its own weight to a point where it bends space to such a degree, that it plummets into an actual hole￼. This is what we call a black hole.
 
-When you are walking up to give a speech in front of thousands of people, think of that one of those black holes forming in space. Center your mind in the rationale of how insignificant whatever you're doing is at it relates to time - the billions of years before us and the billions of years after us. Does the judgement of this group of people really matter at all?
+When you are walking up to give a speech in front of thousands of people, think about a black hole forming for a moment. Center your mind in the rationale of how insignificant whatever you're doing is as it relates to time and space - the billions of years before us and the billions of years after us. Does the judgement of this group of people really matter at all?
 
 [Greatness Code](https://www.youtube.com/watch?time_continue=88&v=t2I3Yd27dGw&feature=emb_logo) This trailer gives a peak into athletes talking about how they perform under immense pressure... you'll hear Lebron say "I wish I could bottle nothing up."
 
-Fear manifests from millions of years of biological instinct to protect your life. Perspective allows you to control how fear impacts your life. Use rationale of your mind to apply perspective in moments of fear to calm your biological instinctual fear. Then you breath out, and you conquer - mind at ease.
+Fear manifests from millions of years of biological instinct to protect your life. Perspective allows you to control how fear impacts your life in today's society. Find your own way to apply perspective in moments of fear to calm your biological instinctual fear... it's the same exercise as the classic adage of imagining the crowd in their underwear. 
 
 Perspective allows you to access 'nothing' whenever you want.
 
-
+**Validation**
 The Hubble telescope has shown from space a deeper image of the sky than any seen perviously.
 
 <img src="{{site.imgurl}}/Hubble.jpg" height="200" />
