@@ -63,9 +63,9 @@ The Hubble telescope has shown from space a deeper image of the sky than any see
 
 <img src="{{site.imgurl}}/Hubble.jpg" height="200" />
 
-Each black dot in the image is a galaxy containing a hubdred billion suns similar to ours. The majority of those suns are orbited by planets, meaning that there are thousands of billions of billions of billions of planets such as Earth. 
+Each speck of light in the image is a galaxy containing a hubdred billion suns similar to ours. The majority of those suns are orbited by planets, meaning that there are thousands of billions of billions of billions of planets such as Earth. 
 
-Thinking about the expansiveness of the universe helps me free myself from the need for validation from society. I can take any risk, approach any situation, talk to anyone, and be woever I want. Doesn't something like judging someone because they have different color skin seem pretty ridiculous if there are many billions of other planets around? 
+Thinking about the expansiveness of the universe helps me free myself from the need for validation from society. I can take any risk, approach any situation, talk to anyone, and be woever I want.
 
 
 # Time is like a river that carries us forward into encounters with reality that require us to make decisions. We can't stop our movement down this river and we can't avoid those encounters. We can only approach them in the best possible way. 
