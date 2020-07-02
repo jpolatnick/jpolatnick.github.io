@@ -8,7 +8,7 @@ permalink: /about/
 
 a brief from quarter life so far
 
-I am Jackson. More so than anything, I enjoy joining people and ideas together. 
+I am Jackson. I enjoy joining people and ideas together. 
 
 Here you'll find a glimpse into my interests.
 
