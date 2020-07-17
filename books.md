@@ -7,10 +7,45 @@ permalink: /books/
 # **Books**
 Here you'll find books I have read that I particularly enjoyed. Some include my own takeaways from the read.
 
+<img src="{{site.imgurl}}/7_brief_Lessons.png" height="100" />
+<img src="{{site.imgurl}}/competing_against_luck.png" height="100" />
+<img src="{{site.imgurl}}/ego.png" height="100" />
+<img src="{{site.imgurl}}/never_split.png" height="100" />
+<img src="{{site.imgurl}}/old_man.png" height="100" />
+<img src="{{site.imgurl}}/rework.png" height="100" />
+<img src="{{site.imgurl}}/River_runs.png" height="100" />
+<img src="{{site.imgurl}}/Siddhartha.png" height="100" />
+<img src="{{site.imgurl}}/stevejobs.png" height="100" />
+<img src="{{site.imgurl}}/sun_also_rises.png" height="100" />
+<img src="{{site.imgurl}}/when.png" height="100" />
+
+
 # **Quotes**
 Below you will find a haphazard collections of words and sentiments that have I have found worthy to jot down. Some I use every day to inspire and motivate.
 
-Memento Mori - remember you will die
+You can’t outfight the infinite.
+(Game theory)
+
+Tell me and I forget.
+Teach me and I may remember.
+Involve me and I learn.
+- Benjamin Franklin
+
+A failure is not always a mistake... the real mistake is to stop trying. - Skinner 
+
+For surviving and enduring there is no remedy but striving and doing. Thomas Carlyle
+
+Laws change: people die; the land remains - Abraham Lincoln 
+
+Remember what peace there may be in silence. 
+
+I am strong because I've been weak. I am fearless because I've been afraid. I am wise because I've been foolish. 
+
+You will not be punished for your anger, you will be punished by your anger. -Buddha 
+
+Difficult roads often lead to beautiful destinations
+
+Memento Mori - Remember we all will die
 
 Objective judgment, now at this very moment 
 Unselfish action, now at this very moment 
