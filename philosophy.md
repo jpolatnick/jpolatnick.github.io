@@ -28,7 +28,7 @@ Take this Marcus Aurelius quote for example, "Erase the false impressions from y
 **Natural World**
 Actively seek cosmic synchronization; that transcendental experience that makes ego impossible and fear pointless. Cosmic synchronization is my fanciful way of talking about those moments when you experience a sunset over the ocean, the Uyuni salt flat during sunrise, the dolomites in the alps of Italy.... moments where the the serenity of nature is so moving that you enjoy peace and mental refreshment. 
 
-**Chance of Life**
+**Chance**
 I was born in 1996. My parents met each other in San Francisco while working. My mom grew up on a farm and her grandparents immigrated from Italy. My father grew up in New York. My great grandparents all had the courage to risk never seeing their families to immigrate to a country where they did not know the language on the premise of "opportunity"...
 
 I often think of one those lives - my grandfather. My grandfather was a front line medic in WW2. He was part of 8 people in his 156 person platoon to survive a German attack. He witnessed his best friends get shot on either side of him while a tree trunk saved his life. The next time he was shot, the bullet was directly over his heart. The bullet penetrated the metal cigarette case he was carrying in his shirt pocket, passed through the first layer and stopped at the back.
