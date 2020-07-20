@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 # **Books**
-Here you'll find books I have read that I particularly enjoyed. Some include my own takeaways from the read.
+Here you'll find books I have read that I particularly enjoyed.
 
 <img src="{{site.imgurl}}/7_brief_Lessons.png" height="100" />
 <img src="{{site.imgurl}}/competing_against_luck.png" height="100" />
@@ -21,7 +21,10 @@ Here you'll find books I have read that I particularly enjoyed. Some include my 
 
 
 # **Quotes**
-Below you will find a haphazard collections of words and sentiments that have I have found worthy to jot down. Some I use every day to inspire and motivate.
+Below you will find a haphazard collections of words and sentiments that have I have found worthy to jot down. 
+
+
+
 
 You can’t outfight the infinite.
 (Game theory)
