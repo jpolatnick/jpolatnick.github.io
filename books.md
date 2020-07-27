@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 # **Books**
-Here you'll find books I have read that I particularly enjoyed.
+Books I have read & enjoyed.
 
 <img src="{{site.imgurl}}/7_brief_Lessons.png" height="100" />
 <img src="{{site.imgurl}}/competing_against_luck.png" height="100" />
@@ -21,8 +21,6 @@ Here you'll find books I have read that I particularly enjoyed.
 
 
 # **Quotes**
-Below you will find a haphazard collections of words and sentiments that have I have found worthy to jot down. 
-
 
 Ego is stolen, confidence is earned.
 
