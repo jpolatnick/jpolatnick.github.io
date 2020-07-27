@@ -4,7 +4,7 @@ title: Ventures
 permalink: /ventures/
 ---
 
-# **Traina Foods (The Family Business)**
+# **Traina Foods** <img src="{{site.imgurl}}/intel.png" height="25" />
 Age: 14-20
 
 <img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/apricots.JPG" width="35%" />
