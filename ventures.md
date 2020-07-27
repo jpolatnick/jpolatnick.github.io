@@ -7,7 +7,7 @@ permalink: /ventures/
 # **Traina Foods** <img src="{{site.imgurl}}/traina.png" height="25" />
 Age: 14-20
 
-<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/apricots.JPG" width="21%" />
+<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/apricots.JPG" width="22%" />
 I spent the formative years of my life working in orchards for my family's dried fruit business. The rule was we had to work for 40 hours without pay to be eligible for employment by my uncle. My first 40 hours I spent tight rope walking up and down each row of the wooden drying trays making sure that each apricot was flipped with the open face towards the sun. As the years went by, I would eventually become a forklift driver, a harvest manager, a sales rep and ultimately a sales manager. My years in the fields and the unusual opportunities afforded to me at a young age taught me the value of hard work and gave me confidence to seek stretch opportunities in my future career.  
 
 # **Intel** <img src="{{site.imgurl}}/intel.png" height="25" />
