@@ -58,13 +58,15 @@ Perspective allows you to access 'nothing' whenever you want.
 **Validation**
 Why do we allow the judgements of 'others' to influence our largest life decisions?
 
-<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/Hubble.jpg" width="25%" /> 
+<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/Hubble.jpg" width="35%" /> 
 The Hubble telescope has shown from space a deeper image of the sky than any seen perviously. Each speck of light in the image is a galaxy containing a hubdred billion suns similar to ours. The majority of those suns are orbited by planets, meaning that there are thousands of billions of billions of billions of planets such as Earth. 
 
 Thinking about the expansiveness of the universe helps me free myself from the need for validation from society. I can take any risk, approach any situation, talk to anyone, and be whoever I want.
 
 
-<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/snoopy.png" width="25%" /> 
-Time is like a river that carries us forward into encounters with reality that require us to make decisions. We can't stop our movement down this river and we can't avoid those encounters. We can only approach them in the best possible way. 
+
+*"Time is like a river that carries us forward into encounters with reality that require us to make decisions. We can't stop our movement down this river and we can't avoid those encounters. We can only approach them in the best possible way."* 
+
+<img style="float: center; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/snoopy.png" width="25%" /> 
 
 
