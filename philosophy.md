@@ -31,7 +31,7 @@ Actively seek cosmic synchronization; that transcendental experience that makes 
 **Chance**
 I was born in 1996. My parents met each other in San Francisco while working. My mom grew up on a farm and her grandparents immigrated from Italy. My father grew up in New York and his grandparents were also immigrants.
 
-<img style="float: left; margin: 0px 14px 14px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="30%" />
+<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="30%" />
 My grandfather was a front line medic in WW2. He witnessed his best friends get shot on either side of him while a tree trunk saved his life. In another German attack, he was shot and this time the bullet struck directly over his heart. The bullet penetrated the metal cigarette case he was carrying in his shirt pocket, passed through the first layer and stopped at the back.
 
 Statistical probablity. That my grandfather survived WW2 x my parents met in San Francisco x that I was born (I was a happy accident) = an extremely low number. But what about the probabilty that a meteorite hit the earth 66 million years ago changing the environment to eventually sustain human life x the probability that my first two ancestors meet and the many "great great great..." grandparents after them... well then we have an extremely small number. But it we multiply that by the probabilty that 15 billion years an extremely hot and dense cloud exploded into billions of suns and planets ... we get an infinetly small number.
