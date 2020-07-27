@@ -319,3 +319,12 @@ The greatest glory in living lies not in never falling, but in rising every time
 
 
 
+
+
+
+*"Time is like a river that carries us forward into encounters with reality that require us to make decisions. We can't stop our movement down this river and we can't avoid those encounters. We can only approach them in the best possible way."* 
+
+<img src="{{site.imgurl}}/snoopy.png" height="500" />
+
+
+
