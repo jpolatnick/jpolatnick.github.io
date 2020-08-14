@@ -8,25 +8,15 @@ The most important thing is to try and inspire people so that they can be great 
 
 ## Perspective
 
-Perspective is the most integral component to my life philosophy. I want to share here how I look at perspective and the ways that I apply it to my life. Perspective is constantly informing the direction of my career, the strength of my relationships and the happiness I find in daily life.
+Perspective is the most integral component to my life philosophy. I want to share here how I look at perspective and the ways that I apply it to my life. I define perspective to be a person's understanding of self as it relates to life, the universe, spirituality or whatever someone decides to believe in. The strength of my perspective is informed by three things: Emotion, Nature and Chance.
 
-# What is perspective?
+**Emotion**
 
-Perspective is your understanding of self as it relates to life, the universe, spirituality or whatever you decide to believe in.
+"Erase the false impressions from your mind by constantly saying to yourself, I have it in my soul to keep out evil, desire, or any kind of disturbance - this is the power nature gave you." This is from Aurelius "Meditations" - his personal journal for reflection. Aurelius is reminding himself that his own mind is the derivitive of his decisions and feelings. We are born with the ability to control those feelings and can actually train ourselves to be improve that skill. The first step to controlling your emotion is to recognize how and when it affects you. An expert can feel the emotion of anger arising, understand if that emotion can positively or negatively impact that moment and any future decisions, and adjust her/his attitude accordingly. 
 
-# How can we train our own perspective?
+**Nature**
 
-1. Learn to control your emotion
-2. Experience the natural world
-3. Understand the chance of life
-
-**Control Emotion**
-Marcus Aurelius and the philosophic thought of stoicism have been great intellectual resources that have aided my learning of controlling emotion (see 'books' for more).
-
-Take this Marcus Aurelius quote for example, "Erase the false impressions from your mind by constantly saying to yourself, I have it in my soul to keep out evil, desire, or any kind of disturbance - this is the power nature gave you." This is from Aurelius "Meditations" - his personal journal for reflection. Aurelius is reminding himself that the mind is the derivitive of your decisions and feelings. The power that nature gives you is the ability to control those things. Practice controlling your emotions to further your morality. Controlling your emotion is a manifestation of applying perspective throughout your day.
-
-**Natural World**
-Actively seek cosmic synchronization; that transcendental experience that makes ego impossible and fear pointless. Cosmic synchronization is my fanciful way of talking about those moments when you experience a sunset over the ocean, the Uyuni salt flat during sunrise, the dolomites in the alps of Italy.... moments where the the serenity of nature is so moving that you enjoy peace and mental refreshment. 
+"Actively seek cosmic synchronization; that transcendental experience that makes ego impossible and fear pointless." To me this is really a fanciful way of talking about being in sync with the natural world around you. There is so much positive energy that comes from those moments when you are experiencing a sunset over the ocean, breathing in mountain air, feeling the soft grass and dirt of the earth with your bare feet.... moments when the serenity of nature is so moving that you enjoy peace and mental refreshment. 
 
 **Chance**
 I was born in 1996. My parents met each other in San Francisco while working. My mom grew up on a farm and her grandparents immigrated from Italy. My father grew up in New York and his grandparents were also immigrants.
