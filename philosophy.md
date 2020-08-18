@@ -12,13 +12,14 @@ Anyone who has had enough late evenings with me, usually accompanied by a bourbo
 
 **Emotion**
 
-"Erase the false impressions from your mind by constantly saying to yourself, I have it in my soul to keep out evil, desire, or any kind of disturbance - this is the power nature gave you." The quote is from [Marcus Aurelius](https://dailystoic.com/marcus-aurelius/)' "Meditations" - his personal journal during while empereror of Rome. Aurelius is reminding himself that his own mind is the derivitive of his decisions and feelings. We are born with the ability to control those feelings and can actually train ourselves to improve that skill. The first step to controlling your emotion is to recognize how and when it affects you. An expert can feel the emotion of anger arising, understand if that emotion can positively or negatively impact that moment and any future decisions, and adjust her/his attitude accordingly. 
+"Erase the false impressions from your mind by constantly saying to yourself, I have it in my soul to keep out evil, desire, or any kind of disturbance - this is the power nature gave you." The quote is from [Marcus Aurelius](https://dailystoic.com/marcus-aurelius/)' "Meditations" - his personal journal while empereror of Rome. Aurelius is reminding himself that his own mind is the derivitive of his decisions and feelings. We are born with the ability to control those feelings and can actually train ourselves to improve that skill. The first step to controlling your emotion is to recognize how and when it affects you. An expert can feel the emotion of anger arising, understand if that emotion can positively or negatively impact that moment and any future decisions, and adjust her/his attitude accordingly. 
 
 **Nature**
 
-"Actively seek cosmic synchronization; that transcendental experience that makes ego impossible and fear pointless." To me this is really a fanciful way of talking about being in sync with the natural world around you. There is so much positive energy that comes from moments when you are experiencing a sunset over the ocean, breathing in mountain air, or feeling the dirt of the earth with your bare feet. Nature can offer moments of serenity that give your [Atman] (https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) peace and mental refreshment. 
+"Actively seek cosmic synchronization; that transcendental experience that makes ego impossible and fear pointless." To me this is really a fanciful way of talking about being in sync with the natural world around you. There is so much positive energy that comes from moments when you are experiencing a sunset over the ocean, breathing in mountain air, or feeling the dirt of the earth with your bare feet. Nature can offer moments of serenity that give your [Atman](https://www.bbc.co.uk/religion/religions/hinduism/concepts/concepts_1.shtml) peace and mental refreshment. 
 
 **Chance**
+
 I was born in 1996. My parents met in San Francisco while working. My mom grew up on a farm. Her grandparents immigrated from Italy. My father grew up in New York and his grandparents were also immigrants.
 
 <img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="20%" />
