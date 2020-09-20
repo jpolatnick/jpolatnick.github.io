@@ -18,6 +18,12 @@ Books I have read & enjoyed.
 <img src="{{site.imgurl}}/stevejobs.png" height="100" />
 <img src="{{site.imgurl}}/sun_also_rises.png" height="100" />
 <img src="{{site.imgurl}}/when.png" height="100" />
+<img src="{{site.imgurl}}/thinkingfastandslow.png" height="100" />
+<img src="{{site.imgurl}}/Sapiens.png" height="100" />
+<img src="{{site.imgurl}}/return_little_kingdom.png" height="100" />
+<img src="{{site.imgurl}}/leading.png" height="100" />
+<img src="{{site.imgurl}}/how_to_change_mind.png" height="100" />
+<img src="{{site.imgurl}}/meditations.png" height="100" />
 
 
 # **Quotes**
