@@ -87,6 +87,40 @@ You don’t have to explain everything you feel.
 
 A wealth of information creates a poverty of attention.
 
+How people treat you is their karma; how you react is yours.
+-Wayne Dyer 
+
+“Everything will be ok in the end. If it’s not okay, it’s not the end”
+
+If you believe it will work out, you'll see opportunities. If you believe it won't, you will see obstacles. I need both to be successful. 
+
+Failure is the opportunity to begin again more intelligently.
+-Henry Ford 
+
+Only the disciplined ones in life are free. If you are undisciplined, you are a slave to your moods and your passions.
+-Eliud Kipchoge 
+
+It was the character that got us out of bed, the commitment that moved us into action, and discipline that enabled us to follow through.
+-Zig Ziglar 
+
+If you really want to do something, you'll find a way. If you don't, you'll find an excuse.
+-Jim Rohn 
+
+(who you are) - (who you want to be) = what you do. Make that = 0. 
+
+Keep faith. The most amazing things in life tend to happen right at the moment you're about to give up hope.  
+
+The person who masters himself through self-control and discipline is truly undefeatable.
+-Buddha 
+
+My energy is my most valuable resource.
+
+Come what may, all bad fortune is to be conquered by endurance. - Vergil 
+
+He who conquers others is strong. He who conquers himself is mighty. - Lao Tzu
+
+Adapt or perish, now as ever, is nature’s inexorable imperative.  - H.G. Wells
+
 Death before dishonor.
 
 If you can't explain it simply, you don't understand it well enough. - Albert Einstein 
