@@ -177,7 +177,7 @@ Rather be a hour early than a minute late.
 You don't always need a plan. Sometimes you just need to breathe, trust, let go, and see what happens. -Mandy Hale 
 
 
-I was Not born a genius, but rather have embarked on... “a persistent cycle of pragmatic learning, experimental adaptation, and constant revision driven by [my] uniquely disciplined and focused will. “ - biography of Genghis Kahn 
+Not born a genius, but rather embarked on... “a persistent cycle of pragmatic learning, experimental adaptation, and constant revision driven by his uniquely disciplined and focused will. “ - biography of Genghis Kahn 
 
 Socrates wisdom lay in the fact that he knew that he knew next to nothing. 
 
@@ -318,7 +318,35 @@ Never give up - If you can’t fly, then run. If you can’t run, then walk. If 
 The greatest glory in living lies not in never falling, but in rising every time we fall - Nelson Mandela
 
 
+Twistable Turnable Man by Shel Silverstein
 
+He's the Twistable Turnable Squeezable Pullable
+Stretchable Foldable Man.
+He can crawl in your pocket or fit your locket
+Or screw himself into a twenty-volt socket,
+Or stretch himself up to the steeple or taller,
+Or squeeze himself into a thimble or smaller,
+Yes he can, course he can,
+He's the Twistable Turnable Squeezable Pullable
+Stretchable Shrinkable Man.
+And he lives a passable life
+With his Squeezable Lovable Kissable Hugable
+Pullable Tugable Wife.
+And they have two twistable kids
+Who bend up the way that they did.
+And they turn and they stretch
+Just as much as they can
+For this Bendable Foldable
+Do-what-you're-toldable
+Easily moldable
+Buy-what you're-soldable
+Washable Mendable
+Highly Dependable
+Buyable Saleable
+Always available
+Bounceable Shakeable
+Almost unbreakable
+Twistable Turnable Man.
 
 
 
