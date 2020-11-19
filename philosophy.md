@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: Philosophy & Thoughts
+title: Philosophy
 permalink: /philosophy/
 ---
 
