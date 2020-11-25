@@ -5,7 +5,7 @@ permalink: /books/
 ---
 
 # **Books**
-Books I have read & enjoyed.
+A handul of books I have read & enjoyed. Always looking for recommendations!
 
 <img src="{{site.imgurl}}/7_brief_Lessons.png" height="100" />
 <img src="{{site.imgurl}}/competing_against_luck.png" height="100" />
