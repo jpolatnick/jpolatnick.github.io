@@ -20,7 +20,7 @@ Anyone who has had enough late evenings with me, usually accompanied by a bourbo
 
 **Chance**
 
-I was born in 1996. My parents met in San Francisco while working. My mom grew up on a farm. Her grandparents immigrated from Italy. My father grew up in New York and his grandparents were also immigrants.
+I was born in 1996. My parents met in San Francisco while working. My mom grew up on a farm. Her grandparents immigrated from Italy. My father grew up in New York and his grandparents were immigrants from Ukraine.
 
 <img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="20%" />
 My grandfather was a front line medic in WW2. While in Normandy, France, my grandfather was shot at by Nazi's despite his medic status. The bullet struck him directly over his heart. I am alive today because of the metal cigarette case he was carrying in his shirt pocket that day. The bullet passed through the first layer and stopped at the back. 
