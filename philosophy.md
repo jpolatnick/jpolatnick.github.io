@@ -43,7 +43,7 @@ Perspective allows you to access 'nothing' whenever you want.
 
 Similarly to fear, we have a tendency to seek validation from society - a desire to be "normal" or "successful" in the eyes of others. What a ridiculous concept... your own happiness and the way you treat other people should surmount this. But it often doesn't and we all fall into the trap of allowing societal pressures to inform what we think is best for ourselves. 
 
-<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/Hubble.jpg" width="35%" /> 
+<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/Hubble.jpg" width="37%" /> 
 The Hubble telescope has shown from space a deeper image of the sky than any seen perviously. Each speck of light in the image is a galaxy containing a hubdred billion suns similar to ours. The majority of those suns are orbited by planets, meaning that there are thousands of billions of billions of billions of planets such as Earth. 
 
 When I notice myself getting caught up over what others think of me, I like to think about how many stars and planets are out there (getting a jist for how nerdy am I about space?) because it helps me free myself from any need for validation from society. This is really powerful because it allows you take risks freely and find your true maximums in happiness and potential.
