@@ -22,7 +22,7 @@ Anyone who has had enough late evenings with me, usually accompanied by a bourbo
 
 I was born in 1996. My parents met in San Francisco while working. My mom grew up on a farm. Her grandparents immigrated from Italy. My father grew up in New York and his grandparents were immigrants from Ukraine.
 
-<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="17%" />
+<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="18%" />
 My grandfather was a front line medic in WW2. While in Normandy, France, my grandfather was shot at by Nazi's despite his medic status. The bullet struck him directly over his heart. I am alive today because of the metal cigarette case he was carrying in his shirt pocket that day. The bullet passed through the first layer and stopped at the back. 
 
 I share this not to impress upon the reader the heroism of my grandfather, albeit I do love talking about him, but rather to show how lucky I am to be here. When I think about the statistical probability of recreating events such that my grandfather would live through the war, my mother would meet my father working in San Francisco, and I would come to be born (a happy accident), it makes me realize that my existence is the product of an infinite amount of unlikely events. What if the meteorite that struck earth 66 million years ago missed us entirely? The point here is that no matter who you are, there is an infinite amount of time before and after us, and yet we are here, able to live.
