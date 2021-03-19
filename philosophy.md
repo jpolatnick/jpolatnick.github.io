@@ -3,9 +3,7 @@ layout: gallery
 title: Some Thoughts
 permalink: /philosophy/
 ---
-_"The most important thing is to try and inspire people so that they can be great in whatever they want to do." - Kobe _
-
-## Some thoughts
+"The most important thing is to try and inspire people so that they can be great in whatever they want to do." - Kobe
 
 My philosophy is simple: Be good and love your family, little else matters. How I put this into practice is more complex. Three themes have helped center my actions around my philosophy: Stoicism, Nature and Perspective.
 
@@ -19,18 +17,15 @@ My philosophy is simple: Be good and love your family, little else matters. How 
 
 **Perspective**
 
-<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="18%" />
+<img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="25%" />
 My parents met in San Francisco while working. My mom grew up on a farm. Her grandparents immigrated from Italy. My father grew up in New York and his grandparents were immigrants from Ukraine. While a front line medic in WW2, my grandfather was shot by a Nazi in Normandy, France. He was carrying a metal cigarette case in his shirt pocket just over his heart that day. The bullet passed through the first layer and stopped at the back. Thinking only of the generations we can remember is enough to impress upon us the unquanitifiable improbability that you are you. No matter who you are, there is an infinite amount of time before us and after us, and yet we are here, able to live.
-
-
-
 
 
 **Overcoming Fear**
 
 Perspective, nature and stoicism have offered me a way to guide my decision making in life. Equally important, having these tools helps me rationally overcome a challenge we all face: fear. Fear can exert control over our decision making. We fear failure, uncertainty, change, judgement, inadequacy and so we avoid putting ourselves in those positions of risk. 
 
-Let's take a practical example: public speaking. It's almost inevitable that my heart will begin pounding faster. My brain chemistry will change and nerves will become present in my body. When I feel like this, I like to think about black holes. Right now in space, a star has just used all of its combustible hydrogen. What remains is no longer supported by the heat of combustion and collapses under its own weight to a point where it bends space to such a degree, that it plummets into an actual hole￼- a black hole.
+Let's take a practical example - public speaking. It's almost inevitable that my heart will begin pounding faster. My brain chemistry will change and nerves will become present in my body. When I feel like this, I like to think about black holes. Right now in space, a star has just used all of its combustible hydrogen. What remains is no longer supported by the heat of combustion and collapses under its own weight to a point where it bends space to such a degree, that it plummets into an actual hole￼- a black hole.
 
 What I am doing is centering my mind in the rationale of how insignificant whatever I'm doing is as it relates to time and space - the billions of years before us and the billions of years after us. Does the judgement of this group of people really matter at all? It helps slow down my heart rate and I then I can calmly deliver the message I've practiced so much.
 
