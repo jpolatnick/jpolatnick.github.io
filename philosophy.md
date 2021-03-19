@@ -1,10 +1,9 @@
 ---
 layout: gallery
-title: Philosophy
+title: Some Thoughts
 permalink: /philosophy/
 ---
-_This section is written in the spirit of Kobe..._
-"The most important thing is to try and inspire people so that they can be great in whatever they want to do." - Kobe 
+_"The most important thing is to try and inspire people so that they can be great in whatever they want to do." - Kobe _
 
 ## Some thoughts
 
@@ -22,6 +21,10 @@ My philosophy is simple: Be good and love your family, little else matters. How 
 
 <img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="18%" />
 My parents met in San Francisco while working. My mom grew up on a farm. Her grandparents immigrated from Italy. My father grew up in New York and his grandparents were immigrants from Ukraine. While a front line medic in WW2, my grandfather was shot by a Nazi in Normandy, France. He was carrying a metal cigarette case in his shirt pocket just over his heart that day. The bullet passed through the first layer and stopped at the back. Thinking only of the generations we can remember is enough to impress upon us the unquanitifiable improbability that you are you. No matter who you are, there is an infinite amount of time before us and after us, and yet we are here, able to live.
+
+
+
+
 
 **Overcoming Fear**
 
