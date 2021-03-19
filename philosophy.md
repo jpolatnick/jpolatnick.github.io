@@ -20,10 +20,8 @@ My philosophy is simple: Be good and love your family, little else matters. How 
 
 **Perspective**
 
-My parents met in San Francisco while working. My mom grew up on a farm. Her grandparents immigrated from Italy. My father grew up in New York and his grandparents were immigrants from Ukraine.
-
 <img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/grandpa.JPG" width="18%" />
-While a front line medic in WW2, my grandfather was shot by a Nazi in Normandy, France. He was carrying a metal cigarette case in his shirt pocket just over his heart that day. The bullet passed through the first layer and stopped at the back. Thinking only of the generations we can remember is enough to impress upon us the unquanitifiable improbability that you are you. No matter who you are, there is an infinite amount of time before us and after us, and yet we are here, able to live.
+My parents met in San Francisco while working. My mom grew up on a farm. Her grandparents immigrated from Italy. My father grew up in New York and his grandparents were immigrants from Ukraine. While a front line medic in WW2, my grandfather was shot by a Nazi in Normandy, France. He was carrying a metal cigarette case in his shirt pocket just over his heart that day. The bullet passed through the first layer and stopped at the back. Thinking only of the generations we can remember is enough to impress upon us the unquanitifiable improbability that you are you. No matter who you are, there is an infinite amount of time before us and after us, and yet we are here, able to live.
 
 **Overcoming Fear**
 Perspective, nature and stoicism have offered me a way to guide my decision making life. Equally important, having these tools helps me rationally overcome a challenge we all face: fear.
