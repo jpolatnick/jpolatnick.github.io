@@ -32,7 +32,7 @@ Fear can exert real control over our decision making. We fear failure, uncertain
 
 Why? What I am doing is centering my mind in the rationale of how insignificant whatever I'm doing is as it relates to time and space - the billions of years before us and the billions of years after us. Does the judgement of this group of people really matter at all? It helps slow down my heart rate and I then I can calmly deliver the message I've practiced so much.
 
-The [Greatness Code](https://www.youtube.com/watch?time_continue=88&v=t2I3Yd27dGw&feature=emb_logo)trailer is of atheletes talking about performances under immense pressure. Lebron says, "I wish I could bottle nothing up." 'Nothing' is the mental clarity that comes with being void of fear and doubt. Take a scientist approach to finding what works for you to calm your biological fear. I find that perspective has worked for me. It's really a similar concept that your Dad has probably told you when you were a kid about to perform in front of people - "Imagine the crowd in their underwear."
+The [Greatness Code](https://www.youtube.com/watch?time_continue=88&v=t2I3Yd27dGw&feature=emb_logo) trailer is of atheletes talking about performances under immense pressure. Lebron says, "I wish I could bottle nothing up." 'Nothing' is the mental clarity that comes with being void of fear and doubt. Take a scientist approach to finding what works for you to calm your biological fear. I find that perspective has worked for me. It's really a similar concept that your Dad has probably told you when you were a kid about to perform in front of people - "Imagine the crowd in their underwear."
 
 
 <img style="float: left; margin: 0px 10px 10px 0px;" src="{{site.imgurl}}/Hubble.jpg" width="37%" /> 
