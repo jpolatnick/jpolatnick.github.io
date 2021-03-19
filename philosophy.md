@@ -4,7 +4,7 @@ title: Philosophy
 permalink: /philosophy/
 ---
 _This section is written in the spirit of Kobe..._
-The most important thing is to try and inspire people so that they can be great in whatever they want to do. - Kobe 
+"The most important thing is to try and inspire people so that they can be great in whatever they want to do." - Kobe 
 
 ## Some thoughts
 
